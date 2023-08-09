@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomaTran", "AutomaTran.csproj", "{435B4427-D006-4AA6-84B9-762E9431FDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435B4427-D006-4AA6-84B9-762E9431FDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435B4427-D006-4AA6-84B9-762E9431FDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435B4427-D006-4AA6-84B9-762E9431FDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435B4427-D006-4AA6-84B9-762E9431FDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72EA807-1C74-4228-B9B0-CE23539D12BB}
+	EndGlobalSection
+EndGlobal
